@@ -1,2 +1,2 @@
-# gcurse.github.io
-gcurse.github.io website
+Background:
+[A Pen created at CodePen.io.](http://codepen.io/johnbgarcia/pen/qqdgGp)
